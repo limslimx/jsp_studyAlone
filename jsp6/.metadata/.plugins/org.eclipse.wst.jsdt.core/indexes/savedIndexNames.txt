@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/admin/inflearn/jsp6/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2207765780.index
+1745128258.index
+3747689721.index
+983275866.index
+266457949.index
